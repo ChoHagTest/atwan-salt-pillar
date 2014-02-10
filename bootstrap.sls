@@ -5,6 +5,6 @@ salt:
     fileserver_backend:
       - git
     gitfs_remotes:
-      - git://github.com/ChoHag/atwan-salt-states
+      - git://github.com/ChoHagTest/atwan-salt-states
     ext_pillar:
-      - git: master git://github.com/ChoHag/atwan-salt-pillar
+      - git: master git://github.com/ChoHagTest/atwan-salt-pillar
